@@ -1,0 +1,6 @@
+Goblin, 0, 1
+Troll, 0, 1
+Orc, 0, 1
+Elf, 0, 1
+Knight, 0, 1
+Wizard, 0, 1
